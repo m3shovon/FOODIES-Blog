@@ -146,7 +146,7 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 # STATICFILES_DIRS = [STATIC_DIR,]
 
-CKEDITOR_BASEPATH = STATIC_ROOT / 'static/ckeditor/ckeditor/'
+# CKEDITOR_BASEPATH = STATIC_ROOT / 'static/ckeditor/ckeditor/'
 # MEDIA
 MEDIA_URL = 'media/'
 MEDIA_ROOT = MEDIA_DIR
